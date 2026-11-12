@@ -126,7 +126,7 @@ Các `[CẢNH BÁO]` còn giữ nguyên và lý do:
 
 4. Một đoạn JSON xuất của một người:
 
-   ![JSON export](images/4_json_export.png)
+   ![JSON export](images/person_keypoints_default.json)
 
 
 ## 7. Tự đánh giá
